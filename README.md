@@ -1,5 +1,3 @@
 # ai_basics
 
-data science
-machine learning
-dataset
+data science, machine learning, dataset
