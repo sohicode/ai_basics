@@ -5,7 +5,7 @@ SohiCode에서 만든 AI MachinLearning 기본 코드 입니다.
 여러분도 공부할 때 도움이 되길 바래요. ^^
 
 ### Reference
-Numpy을 활용한 머신러닝 구현: https://github.com/public-ai/dl-lecture/tree/master/ml-homework
-김성범 인공지능 연구소: https://github.com/DMQA/Python-codes-for-machine-learning-algorithms
+- Numpy을 활용한 머신러닝 구현: https://github.com/public-ai/dl-lecture/tree/master/ml-homework
+- 김성범 인공지능 연구소: https://github.com/DMQA/Python-codes-for-machine-learning-algorithms
 
 Copyright 2023. SohiCode All rights reserved.
